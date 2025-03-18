@@ -1,15 +1,15 @@
 {"user": "admin", 
-"password": "3v4?M00dl3!",
+"password": "********",
 "baseUrl":"https://educaciodigital.cat/iesperealsius/moodle/login/index.php",
 "urlmkusr" : "https://educaciodigital.cat/iesperealsius/moodle/user/editadvanced.php?id=-1",
 "nwusr" : "usuariprova",
 "psswd" : "123456789",
-"name" : "Sara",
-"cognom1" : "Oliva",
-"cognom2" : "Castillo",
+"name" : "Nombre",
+"cognom1" : "Apellido1",
+"cognom2" : "Apellido2",
 "espai" : " ",
-"email" : "saraoliva@inspladelestany.cat", 
-"usuariprof" : "dmarti2",
+"email" : "emaildeprueba@prueba.com", 
+"usuariprof" : "usuariodelmoodle",
 "urlcurs" : "https://educaciodigital.cat/iesperealsius/moodle/admin/user.php"
 }
 
