@@ -1,8 +1,8 @@
-{"user": "44982813B", 
- "password": "Futbol2024!",
- "pathDriver":"/home/pelut/Baixades/chromedriver",
+{"user": "********", 
+ "password": "********",
+ "pathDriver":"*********",
  "baseUrl":"https://www.google.cat/",
- "downloadPath":"Baixades",
+ "downloadPath":"******",
  "usuariID":"usuariID.csv",
  "Urlindic": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwietMXEqc-BAxX4T6QEHTX6ArkQFnoECA8QAQ&url=https%3A%2F%2Faplicacions.ensenyament.gencat.cat%2Fpls%2Fapex%2Ff%3Fp%3Didi&usg=AOvVaw18lzzRcKnMe7HY2H71UvVb&opi=89978449"
 }
