@@ -1,0 +1,9 @@
+{"user": "direccio", 
+"password": "7553305",
+"baseUrl":"http://10.241.181.214:9191/admin",
+"URLusuari": "http://10.241.181.214:9191/app?service=page/CreateInternalUser",
+"copies_restants":"100",
+"copies_a_afegir":"900",
+"espai": " ",
+"borrarurl": "http://10.241.181.214:9191/app?service=page/UserList"
+}

@@ -1,0 +1,16 @@
+{"user": "admin", 
+"password": "3v4?M00dl3!",
+"baseUrl":"https://educaciodigital.cat/iesperealsius/moodle/login/index.php",
+"urlmkusr" : "https://educaciodigital.cat/iesperealsius/moodle/user/editadvanced.php?id=-1",
+"nwusr" : "usuariprova",
+"psswd" : "123456789",
+"name" : "Sara",
+"cognom1" : "Oliva",
+"cognom2" : "Castillo",
+"espai" : " ",
+"email" : "saraoliva@inspladelestany.cat", 
+"usuariprof" : "dmarti2",
+"urlcurs" : "https://educaciodigital.cat/iesperealsius/moodle/admin/user.php"
+}
+
+
