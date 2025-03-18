@@ -1,5 +1,5 @@
 {"user": "direccio", 
-"password": "7553305",
+"password": "*****",
 "baseUrl":"http://10.241.181.214:9191/admin",
 "URLusuari": "http://10.241.181.214:9191/app?service=page/CreateInternalUser",
 "copies_restants":"100",
